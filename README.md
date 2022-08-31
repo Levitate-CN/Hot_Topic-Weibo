@@ -5,3 +5,5 @@ Get hot topics on Weibo
   1.Download main.exe and run it 
   
   2.click the "查看热搜" button
+# notice
+1.The Project may not be able to run in a system without Chinese font,because it uses a font called'微软宋体'
